@@ -1,0 +1,9 @@
+{
+  "name": "tmp.sh",
+  "version": "0.0.1",
+  "description": "Execute bash commands in your TMPDIR context",
+  "global": "true",
+  "install": "make install",
+  "scripts": [ "tmp.sh" ]
+}
+
